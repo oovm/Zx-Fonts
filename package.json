@@ -1,32 +1,24 @@
 {
-  "name": "com.xi.unity.hierarchy2",
-  "displayName": "Xi - Hierarchy",
-  "version": "0.1.0",
-  "unity": "2019.3",
-  "unityRelease": "7f1",
-  "description": "This is a template package, used as a basis to build a bigger one.",
-  "category": "Tool",
-  "type": "tool",
-  "license": "MIT",
-  "author": {
-    "name": "Aster",
-    "email": "support@omiyagames.com",
-    "url": "https://www.omiyagames.com"
-  },
-  "dependencies": {
-    "com.unity.ext.nunit": "1.0.0"
-  },
-  "keywords": [
-    "Xi Games",
-    "Scripts",
-    "Template",
-    "Tool"
-  ],
-  "samples": [
-    {
-      "displayName": "Example 1",
-      "description": "This sample is just an example",
-      "path": "Gizmos"
-    }
-  ]
+    "name": "com.zx.font",
+    "displayName": "Zx - Font",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "unityRelease": "1f1",
+    "description": "Zx Fonts\n Details: https://github.com/oovm/ZxFonts",
+    "category": "Tool",
+    "type": "tool",
+    "license": "MIT",
+    "author": {
+        "name": "Zx Framework",
+        "email": "192608617@qq.com",
+        "url": "https://github.com/oovm"
+    },
+    "dependencies": {
+    },
+    "keywords": [
+        "Zx",
+        "Framework",
+        "Font"
+    ],
+    "samples": []
 }
